@@ -1,23 +1,4 @@
-/*!************************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/stylesheets/main.scss ***!
-  \************************************************************************************************************************************************/
-.footer {
-  background-color: #ddd; }
+.footer{background-color:#ddd}body{margin-left:150px;color:lightblue}.content .title,.content .title-lg,.content .title-md,.content .title-sm{font-style:24px;color:blue}.content .title-lg{font-size:32px}.content .title-md{font-size:28px}.content .title-sm{font-size:14px}
 
-body {
-  margin-left: 150px;
-  color: lightblue; }
-
-.content .title, .content .title-lg, .content .title-md, .content .title-sm {
-  font-style: 24px;
-  color: blue; }
-
-.content .title-lg {
-  font-size: 32px; }
-
-.content .title-md {
-  font-size: 28px; }
-
-.content .title-sm {
-  font-size: 14px; }
+p[data-v-61755dfd]{color:green}
 
